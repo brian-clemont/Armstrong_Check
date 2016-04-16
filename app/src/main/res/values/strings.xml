@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Armstrong Check</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="result">result</string>
+    <string name="check">Check</string>
+    <string name="is_not_Armstrong">" is not an Armstrong Number "</string>
+    <string name="is_armstrong">" is an Armstrong Number"</string>
+</resources>
